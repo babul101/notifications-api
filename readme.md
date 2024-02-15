@@ -7,7 +7,7 @@ This is a simple Express.js API for handling notifications, written in TypeScrip
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/notifications-api.git
+    git clone https://github.com/babul101/notifications-api.git
     ```
 
 2. Install dependencies:
@@ -27,15 +27,15 @@ The server will start on port 8000 by default.
 ```
 ## Endpoints
 
-/notifications: This endpoint handles notifications.
-/: This endpoint returns a simple greeting message.
+- /notifications: This endpoint handles notifications.
+- /: This endpoint returns a simple greeting message.
 
 
 ## Technologies Used
 
-Node.js
-TypeScript
-Express.js
+- Node.js
+- TypeScript
+- Express.js
 
 
 ## License
