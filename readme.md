@@ -24,7 +24,7 @@ To start the server, run:
 ```bash
 npm start
 The server will start on port 8000 by default.
-
+```
 ## Endpoints
 
 /notifications: This endpoint handles notifications.
