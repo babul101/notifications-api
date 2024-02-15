@@ -7,7 +7,7 @@
     "start": "nodemon index.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "Babul",
   "license": "ISC",
   "devDependencies": {
     "@types/express": "^4.17.21",
